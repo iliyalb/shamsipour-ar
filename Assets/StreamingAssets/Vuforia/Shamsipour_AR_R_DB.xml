@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Farhang" size="2.500000 0.742718" />
+    <ImageTarget name="AslKari" size="4.500000 1.426246" />
+    <ImageTarget name="Entesharat" size="1.000000 0.814770" />
+    <ImageTarget name="Fani" size="1.300000 0.772906" />
+    <ImageTarget name="Tarbiat" size="2.000000 0.919301" />
+    <ImageTarget name="Self" size="2.000000 0.657301" />
+    <ImageTarget name="Boofe" size="2.000000 1.071630" />
+    <ImageTarget name="Sanat" size="2.000000 0.827314" />
+    <ImageTarget name="Andishe" size="2.000000 0.628407" />
+    <ImageTarget name="Ghadim" size="4.000000 3.469301" />
+    <ImageTarget name="MIS" size="1.500000 1.007812" />
+  </Tracking>
+</QCARConfig>
