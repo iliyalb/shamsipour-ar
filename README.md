@@ -2,6 +2,8 @@
 
 ![logo](Design/Cover/Header.png?raw=true)
 
+### THIS WAS A 2019 UNIVERSITY PROJECT AND WILL NOT BE UPDATED ANYMORE
+
 This branch contains UWP source code that requires MSBuild (VS 2017) and Vuforia plugins to export Windows Universal Platform builds for Windows 10 (x86/x64) and Windows 10 Mobile (ARM/ARM64).
 
 Switch to unity branch for the android project.
